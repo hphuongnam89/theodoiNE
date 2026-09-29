@@ -1,0 +1,16 @@
+{
+  "name": "ne-crm",
+  "private": true,
+  "packageManager": "pnpm@11.19.0",
+  "scripts": {
+    "dev:web": "pnpm --filter @ne-crm/web dev",
+    "build:web": "pnpm --filter @ne-crm/web build",
+    "build:api": "pnpm --filter @ne-crm/api build",
+    "start:api": "pnpm --filter @ne-crm/api start",
+    "migrate:pg": "node scripts/migrate-sqlite-to-postgres.mjs",
+    "backup": "node scripts/backup-db.mjs",
+    "integrity": "node scripts/check-integrity.mjs",
+    "test:security": "node scripts/test-rbac-security.mjs",
+    "test:phase7c": "node scripts/test-phase7c-features.mjs"
+  }
+}

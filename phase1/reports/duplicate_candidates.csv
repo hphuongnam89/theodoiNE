@@ -1,0 +1,732 @@
+﻿candidate_group,masked_phone,source,sheet,row,group_size,cross_source,same_normalized_name
+P0001,******9163,ctv_roster,DANH SÁCH CTV ,5,3,True,True
+P0001,******9163,data_ctv,Data CTV,147,3,True,True
+P0001,******9163,ne2026,NE 2026,126,3,True,True
+P0002,******8089,ctv_roster,DANH SÁCH CTV ,7,3,True,True
+P0002,******8089,lead_online,LEAD ONLINE,115,3,True,True
+P0002,******8089,ne2025,NE 2025,10,3,True,True
+P0003,******7747,data_ctv,Data CTV,2,2,True,False
+P0003,******7747,lead_self,Lead tự tạo,95,2,True,False
+P0004,******6876,data_ctv,Data CTV,3,3,True,True
+P0004,******6876,lead_self,Lead tự tạo,111,3,True,True
+P0004,******6876,ne2025,NE 2025,6,3,True,True
+P0005,******8475,data_ctv,Data CTV,6,2,True,True
+P0005,******8475,lead_self,Lead tự tạo,138,2,True,True
+P0006,******2199,data_ctv,Data CTV,8,3,True,False
+P0006,******2199,ne2025,NE 2025,23,3,True,False
+P0006,******2199,ne2025,NE 2025,50,3,True,False
+P0007,******4062,data_ctv,Data CTV,9,3,True,True
+P0007,******4062,lead_self,Lead tự tạo,144,3,True,True
+P0007,******4062,ne2025,NE 2025,16,3,True,True
+P0008,******7508,data_ctv,Data CTV,10,3,True,False
+P0008,******7508,lead_self,Lead tự tạo,145,3,True,False
+P0008,******7508,ne2025,NE 2025,21,3,True,False
+P0009,******8195,data_ctv,Data CTV,11,2,True,True
+P0009,******8195,lead_self,Lead tự tạo,146,2,True,True
+P0010,******6767,data_ctv,Data CTV,12,3,True,True
+P0010,******6767,lead_self,Lead tự tạo,153,3,True,True
+P0010,******6767,ne2025,NE 2025,20,3,True,True
+P0011,******8350,data_ctv,Data CTV,14,2,True,True
+P0011,******8350,lead_self,Lead tự tạo,193,2,True,True
+P0012,******0726,data_ctv,Data CTV,15,2,True,True
+P0012,******0726,lead_self,Lead tự tạo,203,2,True,True
+P0013,******3752,data_ctv,Data CTV,16,2,True,False
+P0013,******3752,ne2025,NE 2025,42,2,True,False
+P0014,******8940,data_ctv,Data CTV,19,3,True,True
+P0014,******8940,lead_self,Lead tự tạo,267,3,True,True
+P0014,******8940,ne2025,NE 2025,63,3,True,True
+P0015,******0706,data_ctv,Data CTV,20,3,True,True
+P0015,******0706,lead_self,Lead tự tạo,233,3,True,True
+P0015,******0706,ne2025,NE 2025,43,3,True,True
+P0016,******1668,data_ctv,Data CTV,21,2,True,True
+P0016,******1668,ne2025,NE 2025,49,2,True,True
+P0017,******2308,data_ctv,Data CTV,22,2,True,True
+P0017,******2308,lead_self,Lead tự tạo,243,2,True,True
+P0018,******4904,data_ctv,Data CTV,23,3,True,True
+P0018,******4904,lead_self,Lead tự tạo,244,3,True,True
+P0018,******4904,ne2025,NE 2025,127,3,True,True
+P0019,******1909,data_ctv,Data CTV,24,2,True,True
+P0019,******1909,lead_self,Lead tự tạo,245,2,True,True
+P0020,******4621,data_ctv,Data CTV,25,3,True,True
+P0020,******4621,lead_self,Lead tự tạo,250,3,True,True
+P0020,******4621,ne2025,NE 2025,51,3,True,True
+P0021,******1168,data_ctv,Data CTV,31,2,True,True
+P0021,******1168,ne2025,NE 2025,69,2,True,True
+P0022,******7813,data_ctv,Data CTV,32,2,True,True
+P0022,******7813,lead_self,Lead tự tạo,279,2,True,True
+P0023,******5009,data_ctv,Data CTV,33,2,True,False
+P0023,******5009,lead_self,Lead tự tạo,290,2,True,False
+P0024,******1103,data_ctv,Data CTV,34,2,True,True
+P0024,******1103,lead_self,Lead tự tạo,292,2,True,True
+P0025,******7728,data_ctv,Data CTV,35,2,True,True
+P0025,******7728,lead_self,Lead tự tạo,294,2,True,True
+P0026,******6661,data_ctv,Data CTV,36,4,True,True
+P0026,******6661,data_ctv,Data CTV,186,4,True,True
+P0026,******6661,lead_self,Lead tự tạo,297,4,True,True
+P0026,******6661,ne2026,NE 2026,209,4,True,True
+P0027,******0802,data_ctv,Data CTV,37,3,True,False
+P0027,******0802,lead_self,Lead tự tạo,303,3,True,False
+P0027,******0802,ne2025,NE 2025,107,3,True,False
+P0028,******6000,data_ctv,Data CTV,38,2,True,True
+P0028,******6000,ne2025,NE 2025,76,2,True,True
+P0029,******6387,data_ctv,Data CTV,39,2,True,True
+P0029,******6387,lead_self,Lead tự tạo,307,2,True,True
+P0030,******3977,data_ctv,Data CTV,41,2,True,True
+P0030,******3977,ne2026,NE 2026,35,2,True,True
+P0031,******7619,data_ctv,Data CTV,43,2,True,True
+P0031,******7619,lead_self,Lead tự tạo,311,2,True,True
+P0032,******0825,data_ctv,Data CTV,44,2,True,True
+P0032,******0825,lead_self,Lead tự tạo,312,2,True,True
+P0033,******5805,data_ctv,Data CTV,45,2,True,True
+P0033,******5805,lead_self,Lead tự tạo,313,2,True,True
+P0034,******9081,data_ctv,Data CTV,46,2,True,True
+P0034,******9081,lead_self,Lead tự tạo,314,2,True,True
+P0035,******5698,data_ctv,Data CTV,47,2,True,True
+P0035,******5698,ne2025,NE 2025,133,2,True,True
+P0036,******2905,data_ctv,Data CTV,48,2,True,True
+P0036,******2905,ne2025,NE 2025,119,2,True,True
+P0037,******6306,data_ctv,Data CTV,49,2,True,True
+P0037,******6306,ne2025,NE 2025,122,2,True,True
+P0038,******5140,data_ctv,Data CTV,50,2,True,True
+P0038,******5140,ne2026,NE 2026,73,2,True,True
+P0039,******4800,data_ctv,Data CTV,51,2,True,True
+P0039,******4800,lead_self,Lead tự tạo,335,2,True,True
+P0040,******3292,data_ctv,Data CTV,52,2,True,True
+P0040,******3292,ne2025,NE 2025,147,2,True,True
+P0041,******7653,data_ctv,Data CTV,53,2,True,True
+P0041,******7653,ne2025,NE 2025,132,2,True,True
+P0042,******3822,data_ctv,Data CTV,54,2,True,True
+P0042,******3822,lead_self,Lead tự tạo,342,2,True,True
+P0043,******2543,data_ctv,Data CTV,55,2,True,True
+P0043,******2543,ne2025,NE 2025,158,2,True,True
+P0044,******9432,data_ctv,Data CTV,56,2,True,True
+P0044,******9432,ne2025,NE 2025,146,2,True,True
+P0045,******2078,data_ctv,Data CTV,57,2,True,True
+P0045,******2078,ne2025,NE 2025,153,2,True,True
+P0046,******8369,data_ctv,Data CTV,58,2,True,True
+P0046,******8369,ne2025,NE 2025,151,2,True,True
+P0047,******6585,data_ctv,Data CTV,59,2,True,True
+P0047,******6585,ne2025,NE 2025,162,2,True,True
+P0048,******2468,data_ctv,Data CTV,60,2,True,True
+P0048,******2468,ne2025,NE 2025,186,2,True,True
+P0049,******1823,data_ctv,Data CTV,61,3,True,False
+P0049,******1823,lead_self,Lead tự tạo,365,3,True,False
+P0049,******1823,ne2025,NE 2025,197,3,True,False
+P0050,******5774,data_ctv,Data CTV,62,2,True,True
+P0050,******5774,lead_self,Lead tự tạo,366,2,True,True
+P0051,******7910,data_ctv,Data CTV,63,2,True,True
+P0051,******7910,ne2025,NE 2025,178,2,True,True
+P0052,******7445,data_ctv,Data CTV,64,3,True,False
+P0052,******7445,lead_self,Lead tự tạo,367,3,True,False
+P0052,******7445,ne2025,NE 2025,183,3,True,False
+P0053,******7246,data_ctv,Data CTV,65,2,True,True
+P0053,******7246,ne2025,NE 2025,202,2,True,True
+P0054,******2865,data_ctv,Data CTV,66,2,True,True
+P0054,******2865,lead_self,Lead tự tạo,380,2,True,True
+P0055,******6401,data_ctv,Data CTV,67,2,True,True
+P0055,******6401,lead_self,Lead tự tạo,370,2,True,True
+P0056,******3262,data_ctv,Data CTV,68,2,True,True
+P0056,******3262,lead_self,Lead tự tạo,371,2,True,True
+P0057,******3316,data_ctv,Data CTV,69,2,True,True
+P0057,******3316,lead_self,Lead tự tạo,372,2,True,True
+P0058,******0087,data_ctv,Data CTV,70,2,True,True
+P0058,******0087,ne2025,NE 2025,189,2,True,True
+P0059,******6335,data_ctv,Data CTV,71,3,True,True
+P0059,******6335,lead_self,Lead tự tạo,375,3,True,True
+P0059,******6335,ne2025,NE 2025,191,3,True,True
+P0060,******2598,data_ctv,Data CTV,72,3,True,False
+P0060,******2598,ne2025,NE 2025,199,3,True,False
+P0060,******2598,ne2025,NE 2025,200,3,True,False
+P0061,******6288,data_ctv,Data CTV,73,2,True,True
+P0061,******6288,lead_self,Lead tự tạo,373,2,True,True
+P0062,******0386,data_ctv,Data CTV,74,3,True,True
+P0062,******0386,lead_self,Lead tự tạo,377,3,True,True
+P0062,******0386,ne2025,NE 2025,201,3,True,True
+P0063,******8585,data_ctv,Data CTV,75,3,True,True
+P0063,******8585,lead_self,Lead tự tạo,381,3,True,True
+P0063,******8585,ne2025,NE 2025,231,3,True,True
+P0064,******5559,data_ctv,Data CTV,76,2,True,True
+P0064,******5559,ne2025,NE 2025,232,2,True,True
+P0065,******3959,data_ctv,Data CTV,77,3,True,True
+P0065,******3959,lead_self,Lead tự tạo,374,3,True,True
+P0065,******3959,ne2025,NE 2025,259,3,True,True
+P0066,******0170,data_ctv,Data CTV,78,2,True,True
+P0066,******0170,ne2025,NE 2025,234,2,True,True
+P0067,******4713,data_ctv,Data CTV,80,2,True,True
+P0067,******4713,lead_self,Lead tự tạo,383,2,True,True
+P0068,******6647,data_ctv,Data CTV,83,2,True,True
+P0068,******6647,ne2026,NE 2026,23,2,True,True
+P0069,******4718,data_ctv,Data CTV,85,2,True,True
+P0069,******4718,ne2026,NE 2026,52,2,True,True
+P0070,******8735,data_ctv,Data CTV,86,2,True,True
+P0070,******8735,ne2026,NE 2026,54,2,True,True
+P0071,******1118,data_ctv,Data CTV,87,2,True,True
+P0071,******1118,ne2026,NE 2026,62,2,True,True
+P0072,******2352,data_ctv,Data CTV,88,3,True,False
+P0072,******2352,lead_self,Lead tự tạo,392,3,True,False
+P0072,******2352,ne2026,NE 2026,47,3,True,False
+P0073,******0239,data_ctv,Data CTV,89,3,True,False
+P0073,******0239,lead_online,LEAD ONLINE,229,3,True,False
+P0073,******0239,ne2026,NE 2026,123,3,True,False
+P0074,******4519,data_ctv,Data CTV,90,2,True,True
+P0074,******4519,ne2026,NE 2026,58,2,True,True
+P0075,******1813,data_ctv,Data CTV,92,2,True,True
+P0075,******1813,ne2026,NE 2026,51,2,True,True
+P0076,******3984,data_ctv,Data CTV,93,2,True,True
+P0076,******3984,ne2026,NE 2026,80,2,True,True
+P0077,******9368,data_ctv,Data CTV,95,2,True,True
+P0077,******9368,ne2026,NE 2026,121,2,True,True
+P0078,******4223,data_ctv,Data CTV,96,2,True,True
+P0078,******4223,ne2026,NE 2026,81,2,True,True
+P0079,******0600,data_ctv,Data CTV,97,2,True,True
+P0079,******0600,ne2026,NE 2026,66,2,True,True
+P0080,******1432,data_ctv,Data CTV,98,2,True,True
+P0080,******1432,ne2026,NE 2026,71,2,True,True
+P0081,******1994,data_ctv,Data CTV,99,2,True,True
+P0081,******1994,ne2026,NE 2026,65,2,True,True
+P0082,******6526,data_ctv,Data CTV,100,2,True,True
+P0082,******6526,ne2026,NE 2026,67,2,True,True
+P0083,******7562,data_ctv,Data CTV,101,2,True,False
+P0083,******7562,lead_online,LEAD ONLINE,386,2,True,False
+P0084,******4637,data_ctv,Data CTV,102,2,True,True
+P0084,******4637,ne2026,NE 2026,76,2,True,True
+P0085,******8823,data_ctv,Data CTV,103,2,True,True
+P0085,******8823,ne2026,NE 2026,75,2,True,True
+P0086,******4779,data_ctv,Data CTV,104,2,True,True
+P0086,******4779,ne2026,NE 2026,72,2,True,True
+P0087,******9495,data_ctv,Data CTV,105,3,True,True
+P0087,******9495,lead_self,Lead tự tạo,404,3,True,True
+P0087,******9495,ne2026,NE 2026,82,3,True,True
+P0088,******8196,data_ctv,Data CTV,106,2,True,True
+P0088,******8196,ne2026,NE 2026,79,2,True,True
+P0089,******1536,data_ctv,Data CTV,108,2,True,True
+P0089,******1536,ne2026,NE 2026,107,2,True,True
+P0090,******1787,data_ctv,Data CTV,110,2,True,True
+P0090,******1787,ne2026,NE 2026,91,2,True,True
+P0091,******0993,data_ctv,Data CTV,111,2,True,False
+P0091,******0993,lead_self,Lead tự tạo,414,2,True,False
+P0092,******3468,data_ctv,Data CTV,112,2,True,True
+P0092,******3468,ne2026,NE 2026,92,2,True,True
+P0093,******9702,data_ctv,Data CTV,113,2,True,True
+P0093,******9702,ne2026,NE 2026,93,2,True,True
+P0094,******8953,data_ctv,Data CTV,116,2,True,True
+P0094,******8953,ne2026,NE 2026,106,2,True,True
+P0095,******1997,data_ctv,Data CTV,117,2,True,True
+P0095,******1997,ne2026,NE 2026,98,2,True,True
+P0096,******1580,data_ctv,Data CTV,118,2,True,True
+P0096,******1580,ne2026,NE 2026,115,2,True,True
+P0097,******5646,data_ctv,Data CTV,119,3,True,True
+P0097,******5646,lead_self,Lead tự tạo,423,3,True,True
+P0097,******5646,ne2026,NE 2026,96,3,True,True
+P0098,******6805,data_ctv,Data CTV,120,3,True,True
+P0098,******6805,lead_self,Lead tự tạo,424,3,True,True
+P0098,******6805,ne2026,NE 2026,97,3,True,True
+P0099,******9229,data_ctv,Data CTV,121,2,True,True
+P0099,******9229,ne2026,NE 2026,103,2,True,True
+P0100,******3106,data_ctv,Data CTV,122,2,False,True
+P0100,******3106,data_ctv,Data CTV,124,2,False,True
+P0101,******4062,data_ctv,Data CTV,123,2,True,True
+P0101,******4062,ne2026,NE 2026,100,2,True,True
+P0102,******6433,data_ctv,Data CTV,125,2,True,True
+P0102,******6433,ne2026,NE 2026,105,2,True,True
+P0103,******5719,data_ctv,Data CTV,127,3,True,True
+P0103,******5719,lead_self,Lead tự tạo,432,3,True,True
+P0103,******5719,ne2026,NE 2026,146,3,True,True
+P0104,******3080,data_ctv,Data CTV,128,3,True,True
+P0104,******3080,data_ctv,Data CTV,177,3,True,True
+P0104,******3080,ne2026,NE 2026,114,3,True,True
+P0105,******2252,data_ctv,Data CTV,129,3,True,True
+P0105,******2252,data_ctv,Data CTV,176,3,True,True
+P0105,******2252,ne2026,NE 2026,113,3,True,True
+P0106,******7511,data_ctv,Data CTV,130,2,True,True
+P0106,******7511,ne2026,NE 2026,116,2,True,True
+P0107,******6384,data_ctv,Data CTV,131,2,True,True
+P0107,******6384,ne2026,NE 2026,117,2,True,True
+P0108,******7794,data_ctv,Data CTV,132,2,True,True
+P0108,******7794,ne2026,NE 2026,137,2,True,True
+P0109,******0512,data_ctv,Data CTV,133,2,True,True
+P0109,******0512,ne2026,NE 2026,162,2,True,True
+P0110,******5116,data_ctv,Data CTV,134,2,True,True
+P0110,******5116,ne2026,NE 2026,129,2,True,True
+P0111,******3957,data_ctv,Data CTV,135,2,True,True
+P0111,******3957,ne2026,NE 2026,130,2,True,True
+P0112,******0460,data_ctv,Data CTV,136,2,True,True
+P0112,******0460,ne2026,NE 2026,131,2,True,True
+P0113,******6494,data_ctv,Data CTV,137,3,True,False
+P0113,******6494,lead_self,Lead tự tạo,434,3,True,False
+P0113,******6494,ne2026,NE 2026,135,3,True,False
+P0114,******4362,data_ctv,Data CTV,143,2,True,True
+P0114,******4362,ne2026,NE 2026,154,2,True,True
+P0115,******9567,data_ctv,Data CTV,144,2,True,True
+P0115,******9567,ne2026,NE 2026,132,2,True,True
+P0116,******7620,data_ctv,Data CTV,145,2,True,True
+P0116,******7620,ne2026,NE 2026,159,2,True,True
+P0117,******6227,data_ctv,Data CTV,146,3,True,True
+P0117,******6227,data_ctv,Data CTV,196,3,True,True
+P0117,******6227,ne2026,NE 2026,155,3,True,True
+P0118,******7855,data_ctv,Data CTV,148,2,True,True
+P0118,******7855,ne2026,NE 2026,127,2,True,True
+P0119,******4506,data_ctv,Data CTV,148,2,True,True
+P0119,******4506,ne2026,NE 2026,127,2,True,True
+P0120,******3929,data_ctv,Data CTV,149,2,True,True
+P0120,******3929,ne2026,NE 2026,169,2,True,True
+P0121,******5009,data_ctv,Data CTV,150,2,True,True
+P0121,******5009,ne2026,NE 2026,174,2,True,True
+P0122,******1116,data_ctv,Data CTV,151,2,True,True
+P0122,******1116,ne2026,NE 2026,166,2,True,True
+P0123,******5897,data_ctv,Data CTV,152,2,True,True
+P0123,******5897,ne2026,NE 2026,205,2,True,True
+P0124,******3431,data_ctv,Data CTV,153,2,True,True
+P0124,******3431,ne2026,NE 2026,194,2,True,True
+P0125,******9430,data_ctv,Data CTV,154,2,True,True
+P0125,******9430,ne2026,NE 2026,157,2,True,True
+P0126,******6998,data_ctv,Data CTV,155,3,True,True
+P0126,******6998,lead_self,Lead tự tạo,126,3,True,True
+P0126,******6998,ne2026,NE 2026,201,3,True,True
+P0127,******8097,data_ctv,Data CTV,156,2,True,True
+P0127,******8097,ne2026,NE 2026,193,2,True,True
+P0128,******8679,data_ctv,Data CTV,157,2,True,True
+P0128,******8679,ne2026,NE 2026,99,2,True,True
+P0129,******9768,data_ctv,Data CTV,158,3,True,True
+P0129,******9768,data_ctv,Data CTV,178,3,True,True
+P0129,******9768,ne2026,NE 2026,119,3,True,True
+P0130,******6694,data_ctv,Data CTV,159,3,True,True
+P0130,******6694,data_ctv,Data CTV,179,3,True,True
+P0130,******6694,ne2026,NE 2026,120,3,True,True
+P0131,******5017,data_ctv,Data CTV,160,2,True,True
+P0131,******5017,ne2026,NE 2026,122,2,True,True
+P0132,******3363,data_ctv,Data CTV,161,2,True,True
+P0132,******3363,ne2026,NE 2026,142,2,True,True
+P0133,******4648,data_ctv,Data CTV,162,3,True,True
+P0133,******4648,data_ctv,Data CTV,180,3,True,True
+P0133,******4648,ne2026,NE 2026,144,3,True,True
+P0134,******2998,data_ctv,Data CTV,163,2,True,True
+P0134,******2998,ne2026,NE 2026,183,2,True,True
+P0135,******1812,data_ctv,Data CTV,164,2,True,True
+P0135,******1812,ne2026,NE 2026,198,2,True,True
+P0136,******7851,data_ctv,Data CTV,165,2,True,True
+P0136,******7851,ne2026,NE 2026,184,2,True,True
+P0137,******6999,data_ctv,Data CTV,166,2,True,True
+P0137,******6999,ne2026,NE 2026,189,2,True,True
+P0138,******2657,data_ctv,Data CTV,167,2,True,True
+P0138,******2657,ne2026,NE 2026,213,2,True,True
+P0139,******7453,data_ctv,Data CTV,168,2,True,True
+P0139,******7453,ne2026,NE 2026,229,2,True,True
+P0140,******2600,data_ctv,Data CTV,169,2,True,True
+P0140,******2600,ne2026,NE 2026,222,2,True,True
+P0141,******8704,data_ctv,Data CTV,170,2,True,True
+P0141,******8704,ne2026,NE 2026,248,2,True,True
+P0142,******4308,data_ctv,Data CTV,171,2,True,False
+P0142,******4308,ne2026,NE 2026,283,2,True,False
+P0143,******1760,data_ctv,Data CTV,172,2,True,True
+P0143,******1760,ne2026,NE 2026,288,2,True,True
+P0144,******8113,data_ctv,Data CTV,173,2,True,True
+P0144,******8113,ne2026,NE 2026,271,2,True,True
+P0145,******0878,data_ctv,Data CTV,174,2,True,True
+P0145,******0878,ne2026,NE 2026,281,2,True,True
+P0146,******1502,data_ctv,Data CTV,181,2,True,True
+P0146,******1502,ne2026,NE 2026,151,2,True,True
+P0147,******1716,data_ctv,Data CTV,182,2,True,True
+P0147,******1716,ne2026,NE 2026,160,2,True,True
+P0148,******1196,data_ctv,Data CTV,183,2,True,True
+P0148,******1196,ne2026,NE 2026,175,2,True,True
+P0149,******3313,data_ctv,Data CTV,184,2,True,True
+P0149,******3313,ne2026,NE 2026,180,2,True,True
+P0150,******2475,data_ctv,Data CTV,185,2,True,True
+P0150,******2475,ne2026,NE 2026,191,2,True,True
+P0151,******0207,data_ctv,Data CTV,187,2,True,True
+P0151,******0207,ne2026,NE 2026,208,2,True,True
+P0152,******8816,data_ctv,Data CTV,188,2,True,True
+P0152,******8816,ne2026,NE 2026,237,2,True,True
+P0153,******3476,data_ctv,Data CTV,189,2,True,True
+P0153,******3476,ne2026,NE 2026,262,2,True,True
+P0154,******0969,data_ctv,Data CTV,190,2,True,True
+P0154,******0969,ne2026,NE 2026,261,2,True,True
+P0155,******1851,data_ctv,Data CTV,191,2,True,True
+P0155,******1851,ne2026,NE 2026,231,2,True,True
+P0156,******2738,data_ctv,Data CTV,192,2,True,True
+P0156,******2738,ne2026,NE 2026,218,2,True,True
+P0157,******3048,data_ctv,Data CTV,193,2,True,True
+P0157,******3048,ne2026,NE 2026,207,2,True,True
+P0158,******5531,data_ctv,Data CTV,194,2,True,True
+P0158,******5531,ne2026,NE 2026,204,2,True,True
+P0159,******3711,data_ctv,Data CTV,195,3,True,False
+P0159,******3711,lead_self,Lead tự tạo,415,3,True,False
+P0159,******3711,ne2026,NE 2026,188,3,True,False
+P0160,******8639,data_ctv,Data CTV,197,2,True,True
+P0160,******8639,ne2026,NE 2026,163,2,True,True
+P0161,******4155,data_ctv,Data CTV,198,2,True,True
+P0161,******4155,ne2026,NE 2026,215,2,True,True
+P0162,******4520,data_ctv,Data CTV,199,2,True,True
+P0162,******4520,ne2026,NE 2026,243,2,True,True
+P0163,******6277,data_ctv,Data CTV,200,2,True,True
+P0163,******6277,ne2026,NE 2026,247,2,True,True
+P0164,******2833,data_ctv,Data CTV,208,2,True,True
+P0164,******2833,ne2026,NE 2026,219,2,True,True
+P0165,******9356,data_ctv,Data CTV,209,2,True,True
+P0165,******9356,ne2026,NE 2026,228,2,True,True
+P0166,******1153,data_ctv,Data CTV,210,2,True,True
+P0166,******1153,ne2026,NE 2026,230,2,True,True
+P0167,******1621,data_ctv,Data CTV,211,2,True,True
+P0167,******1621,ne2026,NE 2026,232,2,True,True
+P0168,******3549,data_ctv,Data CTV,212,2,True,True
+P0168,******3549,ne2026,NE 2026,242,2,True,True
+P0169,******0542,data_ctv,Data CTV,213,2,True,True
+P0169,******0542,ne2026,NE 2026,245,2,True,True
+P0170,******6134,data_ctv,Data CTV,214,2,True,True
+P0170,******6134,ne2026,NE 2026,256,2,True,True
+P0171,******1497,data_ctv,Data CTV,215,2,True,True
+P0171,******1497,ne2026,NE 2026,265,2,True,True
+P0172,******2464,data_ctv,Data CTV,216,2,True,True
+P0172,******2464,ne2026,NE 2026,275,2,True,True
+P0173,******6347,data_ctv,Data CTV,217,2,True,True
+P0173,******6347,ne2026,NE 2026,289,2,True,True
+P0174,******3372,data_ctv,Data CTV,218,2,True,True
+P0174,******3372,ne2026,NE 2026,327,2,True,True
+P0175,******2545,data_ctv,Data CTV,219,3,True,True
+P0175,******2545,lead_self,Lead tự tạo,464,3,True,True
+P0175,******2545,ne2026,NE 2026,333,3,True,True
+P0176,******1610,lead_online,LEAD ONLINE,2,3,True,True
+P0176,******1610,lead_online,LEAD ONLINE,492,3,True,True
+P0176,******1610,lead_self,Lead tự tạo,48,3,True,True
+P0177,******2030,lead_online,LEAD ONLINE,4,2,True,False
+P0177,******2030,lead_self,Lead tự tạo,49,2,True,False
+P0178,******4498,lead_online,LEAD ONLINE,5,2,True,True
+P0178,******4498,lead_self,Lead tự tạo,50,2,True,True
+P0179,******1261,lead_online,LEAD ONLINE,12,2,True,True
+P0179,******1261,lead_self,Lead tự tạo,56,2,True,True
+P0180,******4567,lead_online,LEAD ONLINE,13,2,True,True
+P0180,******4567,lead_self,Lead tự tạo,57,2,True,True
+P0181,******2833,lead_online,LEAD ONLINE,14,3,True,False
+P0181,******2833,lead_self,Lead tự tạo,54,3,True,False
+P0181,******2833,lead_self,Lead tự tạo,58,3,True,False
+P0182,******2265,lead_online,LEAD ONLINE,32,2,True,True
+P0182,******2265,lead_self,Lead tự tạo,85,2,True,True
+P0183,******7789,lead_online,LEAD ONLINE,42,2,True,True
+P0183,******7789,lead_self,Lead tự tạo,87,2,True,True
+P0184,******6928,lead_online,LEAD ONLINE,50,2,True,False
+P0184,******6928,lead_self,Lead tự tạo,89,2,True,False
+P0185,******1670,lead_online,LEAD ONLINE,64,5,True,False
+P0185,******1670,lead_online,LEAD ONLINE,180,5,True,False
+P0185,******1670,lead_self,Lead tự tạo,102,5,True,False
+P0185,******1670,lead_self,Lead tự tạo,255,5,True,False
+P0185,******1670,ne2025,NE 2025,61,5,True,False
+P0186,******8444,lead_online,LEAD ONLINE,68,2,True,True
+P0186,******8444,lead_self,Lead tự tạo,103,2,True,True
+P0187,******1944,lead_online,LEAD ONLINE,73,2,True,True
+P0187,******1944,lead_self,Lead tự tạo,101,2,True,True
+P0188,******3203,lead_online,LEAD ONLINE,82,2,True,False
+P0188,******3203,ne2025,NE 2025,5,2,True,False
+P0189,******7587,lead_online,LEAD ONLINE,107,2,True,True
+P0189,******7587,lead_self,Lead tự tạo,109,2,True,True
+P0190,******0099,lead_online,LEAD ONLINE,119,2,True,True
+P0190,******0099,lead_self,Lead tự tạo,112,2,True,True
+P0191,******1407,lead_online,LEAD ONLINE,127,2,True,True
+P0191,******1407,lead_self,Lead tự tạo,114,2,True,True
+P0192,******6669,lead_online,LEAD ONLINE,152,3,True,False
+P0192,******6669,lead_self,Lead tự tạo,115,3,True,False
+P0192,******6669,ne2025,NE 2025,7,3,True,False
+P0193,******3049,lead_online,LEAD ONLINE,153,2,True,True
+P0193,******3049,lead_self,Lead tự tạo,134,2,True,True
+P0194,******9923,lead_online,LEAD ONLINE,154,2,True,True
+P0194,******9923,lead_self,Lead tự tạo,143,2,True,True
+P0195,******2984,lead_online,LEAD ONLINE,156,4,True,False
+P0195,******2984,lead_online,LEAD ONLINE,158,4,True,False
+P0195,******2984,lead_self,Lead tự tạo,172,4,True,False
+P0195,******2984,ne2025,NE 2025,28,4,True,False
+P0196,******6022,lead_online,LEAD ONLINE,157,4,True,False
+P0196,******6022,lead_self,Lead tự tạo,167,4,True,False
+P0196,******6022,ne2025,NE 2025,29,4,True,False
+P0196,******6022,ne2025,NE 2025,196,4,True,False
+P0197,******2060,lead_online,LEAD ONLINE,159,2,True,True
+P0197,******2060,lead_self,Lead tự tạo,179,2,True,True
+P0198,******3116,lead_online,LEAD ONLINE,160,2,True,True
+P0198,******3116,lead_self,Lead tự tạo,181,2,True,True
+P0199,******5264,lead_online,LEAD ONLINE,161,2,True,True
+P0199,******5264,lead_self,Lead tự tạo,180,2,True,True
+P0200,******7156,lead_online,LEAD ONLINE,164,2,True,True
+P0200,******7156,lead_self,Lead tự tạo,182,2,True,True
+P0201,******7153,lead_online,LEAD ONLINE,166,2,False,False
+P0201,******7153,lead_online,LEAD ONLINE,470,2,False,False
+P0202,******4796,lead_online,LEAD ONLINE,169,2,True,False
+P0202,******4796,lead_self,Lead tự tạo,205,2,True,False
+P0203,******3699,lead_online,LEAD ONLINE,181,2,True,False
+P0203,******3699,ne2025,NE 2025,75,2,True,False
+P0204,******8101,lead_online,LEAD ONLINE,193,2,True,False
+P0204,******8101,ne2026,NE 2026,95,2,True,False
+P0205,******5913,lead_online,LEAD ONLINE,195,2,True,True
+P0205,******5913,ne2025,NE 2025,73,2,True,True
+P0206,******0018,lead_online,LEAD ONLINE,196,2,True,False
+P0206,******0018,ne2025,NE 2025,164,2,True,False
+P0207,******0422,lead_online,LEAD ONLINE,197,2,True,False
+P0207,******0422,ne2025,NE 2025,123,2,True,False
+P0208,******4572,lead_online,LEAD ONLINE,199,2,True,False
+P0208,******4572,ne2026,NE 2026,10,2,True,False
+P0209,******8931,lead_online,LEAD ONLINE,200,2,True,True
+P0209,******8931,ne2025,NE 2025,79,2,True,True
+P0210,******8943,lead_online,LEAD ONLINE,201,2,True,False
+P0210,******8943,ne2025,NE 2025,84,2,True,False
+P0211,******7059,lead_online,LEAD ONLINE,203,2,True,False
+P0211,******7059,ne2025,NE 2025,106,2,True,False
+P0212,******8842,lead_online,LEAD ONLINE,205,2,True,True
+P0212,******8842,ne2025,NE 2025,100,2,True,True
+P0213,******3494,lead_online,LEAD ONLINE,209,3,True,False
+P0213,******3494,ne2025,NE 2025,96,3,True,False
+P0213,******3494,ne2025,NE 2025,97,3,True,False
+P0214,******8966,lead_online,LEAD ONLINE,210,2,True,False
+P0214,******8966,ne2025,NE 2025,91,2,True,False
+P0215,******3517,lead_online,LEAD ONLINE,216,2,True,True
+P0215,******3517,ne2025,NE 2025,129,2,True,True
+P0216,******8330,lead_online,LEAD ONLINE,217,2,True,True
+P0216,******8330,ne2025,NE 2025,104,2,True,True
+P0217,******5138,lead_online,LEAD ONLINE,218,2,True,True
+P0217,******5138,ne2025,NE 2025,118,2,True,True
+P0218,******9363,lead_online,LEAD ONLINE,221,2,True,False
+P0218,******9363,ne2025,NE 2025,114,2,True,False
+P0219,******3070,lead_online,LEAD ONLINE,222,2,True,False
+P0219,******3070,ne2025,NE 2025,116,2,True,False
+P0220,******3980,lead_online,LEAD ONLINE,236,2,True,True
+P0220,******3980,ne2025,NE 2025,124,2,True,True
+P0221,******9467,lead_online,LEAD ONLINE,239,2,False,False
+P0221,******9467,lead_online,LEAD ONLINE,241,2,False,False
+P0222,******5473,lead_online,LEAD ONLINE,240,2,True,False
+P0222,******5473,ne2025,NE 2025,239,2,True,False
+P0223,******9855,lead_online,LEAD ONLINE,242,2,True,False
+P0223,******9855,ne2025,NE 2025,139,2,True,False
+P0224,******2000,lead_online,LEAD ONLINE,249,2,True,True
+P0224,******2000,ne2025,NE 2025,144,2,True,True
+P0225,******2127,lead_online,LEAD ONLINE,250,2,True,False
+P0225,******2127,ne2025,NE 2025,126,2,True,False
+P0226,******8642,lead_online,LEAD ONLINE,264,2,True,False
+P0226,******8642,ne2025,NE 2025,150,2,True,False
+P0227,******7043,lead_online,LEAD ONLINE,267,2,True,False
+P0227,******7043,lead_self,Lead tự tạo,401,2,True,False
+P0228,******8343,lead_online,LEAD ONLINE,272,2,True,False
+P0228,******8343,ne2025,NE 2025,163,2,True,False
+P0229,******5586,lead_online,LEAD ONLINE,279,2,True,True
+P0229,******5586,ne2025,NE 2025,169,2,True,True
+P0230,******7559,lead_online,LEAD ONLINE,283,2,True,False
+P0230,******7559,ne2025,NE 2025,159,2,True,False
+P0231,******6831,lead_online,LEAD ONLINE,286,2,True,True
+P0231,******6831,ne2025,NE 2025,170,2,True,True
+P0232,******9513,lead_online,LEAD ONLINE,287,2,True,False
+P0232,******9513,ne2025,NE 2025,166,2,True,False
+P0233,******1858,lead_online,LEAD ONLINE,293,2,False,False
+P0233,******1858,lead_online,LEAD ONLINE,397,2,False,False
+P0234,******4036,lead_online,LEAD ONLINE,295,2,True,False
+P0234,******4036,ne2025,NE 2025,185,2,True,False
+P0235,******3427,lead_online,LEAD ONLINE,299,2,True,False
+P0235,******3427,ne2025,NE 2025,174,2,True,False
+P0236,******0081,lead_online,LEAD ONLINE,301,2,True,False
+P0236,******0081,ne2025,NE 2025,179,2,True,False
+P0237,******5194,lead_online,LEAD ONLINE,306,2,True,False
+P0237,******5194,ne2025,NE 2025,182,2,True,False
+P0238,******9432,lead_online,LEAD ONLINE,314,2,True,True
+P0238,******9432,ne2026,NE 2026,139,2,True,True
+P0239,******0692,lead_online,LEAD ONLINE,317,2,True,True
+P0239,******0692,ne2025,NE 2025,187,2,True,True
+P0240,******2244,lead_online,LEAD ONLINE,342,2,True,True
+P0240,******2244,ne2025,NE 2025,236,2,True,True
+P0241,******7779,lead_online,LEAD ONLINE,344,2,True,False
+P0241,******7779,ne2025,NE 2025,261,2,True,False
+P0242,******5399,lead_online,LEAD ONLINE,347,3,True,True
+P0242,******5399,ne2025,NE 2025,271,3,True,True
+P0242,******5399,ne2026,NE 2026,5,3,True,True
+P0243,******1680,lead_online,LEAD ONLINE,349,2,True,False
+P0243,******1680,ne2025,NE 2025,270,2,True,False
+P0244,******4589,lead_online,LEAD ONLINE,352,2,True,False
+P0244,******4589,ne2026,NE 2026,17,2,True,False
+P0245,******9403,lead_online,LEAD ONLINE,353,2,True,False
+P0245,******9403,ne2026,NE 2026,9,2,True,False
+P0246,******5168,lead_online,LEAD ONLINE,357,2,False,True
+P0246,******5168,lead_online,LEAD ONLINE,438,2,False,True
+P0247,******7875,lead_online,LEAD ONLINE,371,2,True,False
+P0247,******7875,ne2026,NE 2026,307,2,True,False
+P0248,******6181,lead_online,LEAD ONLINE,376,2,True,False
+P0248,******6181,ne2026,NE 2026,252,2,True,False
+P0249,******8806,lead_online,LEAD ONLINE,382,2,True,False
+P0249,******8806,ne2026,NE 2026,61,2,True,False
+P0250,******3035,lead_online,LEAD ONLINE,390,2,True,False
+P0250,******3035,ne2026,NE 2026,70,2,True,False
+P0251,******4100,lead_online,LEAD ONLINE,399,2,True,False
+P0251,******4100,ne2026,NE 2026,128,2,True,False
+P0252,******0466,lead_online,LEAD ONLINE,400,2,True,False
+P0252,******0466,ne2026,NE 2026,69,2,True,False
+P0253,******8839,lead_online,LEAD ONLINE,416,2,True,False
+P0253,******8839,ne2026,NE 2026,86,2,True,False
+P0254,******8455,lead_online,LEAD ONLINE,417,2,True,False
+P0254,******8455,ne2026,NE 2026,78,2,True,False
+P0255,******6529,lead_online,LEAD ONLINE,421,2,True,False
+P0255,******6529,ne2026,NE 2026,74,2,True,False
+P0256,******7042,lead_online,LEAD ONLINE,473,2,True,True
+P0256,******7042,ne2026,NE 2026,143,2,True,True
+P0257,******8500,lead_online,LEAD ONLINE,478,2,True,False
+P0257,******8500,ne2026,NE 2026,149,2,True,False
+P0258,******0742,lead_online,LEAD ONLINE,479,2,True,False
+P0258,******0742,ne2026,NE 2026,135,2,True,False
+P0259,******0450,lead_online,LEAD ONLINE,490,2,True,False
+P0259,******0450,ne2026,NE 2026,148,2,True,False
+P0260,******9145,lead_online,LEAD ONLINE,494,2,True,False
+P0260,******9145,ne2026,NE 2026,147,2,True,False
+P0261,******8265,lead_online,LEAD ONLINE,501,2,True,False
+P0261,******8265,ne2026,NE 2026,173,2,True,False
+P0262,******5959,lead_online,LEAD ONLINE,503,2,True,False
+P0262,******5959,ne2026,NE 2026,297,2,True,False
+P0263,******3277,lead_online,LEAD ONLINE,511,3,True,False
+P0263,******3277,lead_online,LEAD ONLINE,523,3,True,False
+P0263,******3277,ne2026,NE 2026,244,3,True,False
+P0264,******5640,lead_online,LEAD ONLINE,512,2,True,False
+P0264,******5640,ne2026,NE 2026,197,2,True,False
+P0265,******5590,lead_online,LEAD ONLINE,536,2,True,False
+P0265,******5590,ne2026,NE 2026,238,2,True,False
+P0266,******9925,lead_online,LEAD ONLINE,538,2,True,False
+P0266,******9925,ne2026,NE 2026,253,2,True,False
+P0267,******1292,lead_online,LEAD ONLINE,544,2,True,True
+P0267,******1292,ne2026,NE 2026,277,2,True,True
+P0268,******5000,lead_online,LEAD ONLINE,549,2,True,False
+P0268,******5000,ne2026,NE 2026,260,2,True,False
+P0269,******1314,lead_online,LEAD ONLINE,556,2,True,False
+P0269,******1314,ne2026,NE 2026,273,2,True,False
+P0270,******0986,lead_self,Lead tự tạo,2,2,True,True
+P0270,******0986,ne2025,NE 2025,24,2,True,True
+P0271,******5920,lead_self,Lead tự tạo,6,2,True,True
+P0271,******5920,ne2025,NE 2025,34,2,True,True
+P0272,******0579,lead_self,Lead tự tạo,8,2,True,True
+P0272,******0579,ne2026,NE 2026,87,2,True,True
+P0273,******2400,lead_self,Lead tự tạo,38,2,False,True
+P0273,******2400,lead_self,Lead tự tạo,304,2,False,True
+P0274,******7747,lead_self,Lead tự tạo,39,2,True,False
+P0274,******7747,ne2025,NE 2025,35,2,True,False
+P0275,******9039,lead_self,Lead tự tạo,93,2,True,True
+P0275,******9039,ne2025,NE 2025,4,2,True,True
+P0276,******9543,lead_self,Lead tự tạo,97,2,False,False
+P0276,******9543,lead_self,Lead tự tạo,99,2,False,False
+P0277,******7955,lead_self,Lead tự tạo,113,2,True,False
+P0277,******7955,ne2025,NE 2025,8,2,True,False
+P0278,******9001,lead_self,Lead tự tạo,116,2,True,True
+P0278,******9001,ne2025,NE 2025,9,2,True,True
+P0279,******4173,lead_self,Lead tự tạo,119,2,True,False
+P0279,******4173,ne2025,NE 2025,12,2,True,False
+P0280,******9993,lead_self,Lead tự tạo,120,2,True,False
+P0280,******9993,ne2025,NE 2025,33,2,True,False
+P0281,******4020,lead_self,Lead tự tạo,122,2,True,True
+P0281,******4020,ne2025,NE 2025,13,2,True,True
+P0282,******8361,lead_self,Lead tự tạo,124,2,True,True
+P0282,******8361,ne2025,NE 2025,11,2,True,True
+P0283,******1136,lead_self,Lead tự tạo,129,2,True,True
+P0283,******1136,ne2026,NE 2026,44,2,True,True
+P0284,******8835,lead_self,Lead tự tạo,147,2,True,True
+P0284,******8835,ne2025,NE 2025,17,2,True,True
+P0285,******5731,lead_self,Lead tự tạo,149,2,True,True
+P0285,******5731,ne2025,NE 2025,78,2,True,True
+P0286,******9142,lead_self,Lead tự tạo,154,2,True,True
+P0286,******9142,ne2025,NE 2025,19,2,True,True
+P0287,******7248,lead_self,Lead tự tạo,156,2,True,True
+P0287,******7248,ne2025,NE 2025,203,2,True,True
+P0288,******3694,lead_self,Lead tự tạo,157,2,True,True
+P0288,******3694,ne2025,NE 2025,18,2,True,True
+P0289,******0870,lead_self,Lead tự tạo,158,2,True,True
+P0289,******0870,ne2025,NE 2025,36,2,True,True
+P0290,******5709,lead_self,Lead tự tạo,166,2,True,False
+P0290,******5709,ne2025,NE 2025,47,2,True,False
+P0291,******1012,lead_self,Lead tự tạo,168,2,True,False
+P0291,******1012,ne2025,NE 2025,27,2,True,False
+P0292,******5999,lead_self,Lead tự tạo,173,2,True,True
+P0292,******5999,ne2025,NE 2025,26,2,True,True
+P0293,******7283,lead_self,Lead tự tạo,174,2,True,True
+P0293,******7283,ne2025,NE 2025,25,2,True,True
+P0294,******4476,lead_self,Lead tự tạo,176,2,True,True
+P0294,******4476,ne2025,NE 2025,30,2,True,True
+P0295,******3955,lead_self,Lead tự tạo,177,2,False,True
+P0295,******3955,lead_self,Lead tự tạo,262,2,False,True
+P0296,******4123,lead_self,Lead tự tạo,190,2,True,True
+P0296,******4123,ne2025,NE 2025,38,2,True,True
+P0297,******8268,lead_self,Lead tự tạo,201,2,True,True
+P0297,******8268,ne2025,NE 2025,37,2,True,True
+P0298,******8710,lead_self,Lead tự tạo,206,2,True,True
+P0298,******8710,ne2025,NE 2025,56,2,True,True
+P0299,******1629,lead_self,Lead tự tạo,208,2,False,True
+P0299,******1629,lead_self,Lead tự tạo,333,2,False,True
+P0300,******0003,lead_self,Lead tự tạo,212,2,True,True
+P0300,******0003,ne2025,NE 2025,40,2,True,True
+P0301,******7633,lead_self,Lead tự tạo,239,2,True,True
+P0301,******7633,ne2025,NE 2025,57,2,True,True
+P0302,******1671,lead_self,Lead tự tạo,248,2,True,True
+P0302,******1671,ne2025,NE 2025,55,2,True,True
+P0303,******4281,lead_self,Lead tự tạo,254,2,True,True
+P0303,******4281,ne2025,NE 2025,53,2,True,True
+P0304,******9882,lead_self,Lead tự tạo,256,2,True,True
+P0304,******9882,ne2025,NE 2025,59,2,True,True
+P0305,******8930,lead_self,Lead tự tạo,259,2,True,False
+P0305,******8930,ne2025,NE 2025,62,2,True,False
+P0306,******4632,lead_self,Lead tự tạo,260,2,True,True
+P0306,******4632,ne2025,NE 2025,60,2,True,True
+P0307,******8540,lead_self,Lead tự tạo,266,2,True,True
+P0307,******8540,ne2025,NE 2025,68,2,True,True
+P0308,******5002,lead_self,Lead tự tạo,278,2,True,True
+P0308,******5002,ne2025,NE 2025,70,2,True,True
+P0309,******2359,lead_self,Lead tự tạo,281,2,True,True
+P0309,******2359,ne2025,NE 2025,72,2,True,True
+P0310,******8072,lead_self,Lead tự tạo,285,2,True,True
+P0310,******8072,ne2025,NE 2025,71,2,True,True
+P0311,******2268,lead_self,Lead tự tạo,286,2,True,True
+P0311,******2268,ne2025,NE 2025,94,2,True,True
+P0312,******2485,lead_self,Lead tự tạo,287,2,True,False
+P0312,******2485,ne2025,NE 2025,77,2,True,False
+P0313,******5478,lead_self,Lead tự tạo,288,2,True,True
+P0313,******5478,ne2025,NE 2025,74,2,True,True
+P0314,******0349,lead_self,Lead tự tạo,299,2,True,True
+P0314,******0349,ne2025,NE 2025,81,2,True,True
+P0315,******2498,lead_self,Lead tự tạo,301,2,True,False
+P0315,******2498,ne2025,NE 2025,82,2,True,False
+P0316,******4115,lead_self,Lead tự tạo,317,2,True,False
+P0316,******4115,ne2025,NE 2025,108,2,True,False
+P0317,******4658,lead_self,Lead tự tạo,318,2,True,True
+P0317,******4658,ne2025,NE 2025,113,2,True,True
+P0318,******3798,lead_self,Lead tự tạo,336,2,True,False
+P0318,******3798,ne2025,NE 2025,135,2,True,False
+P0319,******3277,lead_self,Lead tự tạo,341,2,True,False
+P0319,******3277,ne2025,NE 2025,136,2,True,False
+P0320,******3102,lead_self,Lead tự tạo,344,2,True,True
+P0320,******3102,ne2025,NE 2025,137,2,True,True
+P0321,******2151,lead_self,Lead tự tạo,348,2,True,False
+P0321,******2151,ne2025,NE 2025,157,2,True,False
+P0322,******8644,lead_self,Lead tự tạo,349,2,True,True
+P0322,******8644,ne2025,NE 2025,154,2,True,True
+P0323,******3494,lead_self,Lead tự tạo,361,2,True,False
+P0323,******3494,ne2025,NE 2025,181,2,True,False
+P0324,******1705,lead_self,Lead tự tạo,363,2,True,True
+P0324,******1705,ne2025,NE 2025,177,2,True,True
+P0325,******0146,lead_self,Lead tự tạo,364,2,True,True
+P0325,******0146,ne2026,NE 2026,104,2,True,True
+P0326,******6724,lead_self,Lead tự tạo,376,2,True,False
+P0326,******6724,ne2025,NE 2025,240,2,True,False
+P0327,******5592,lead_self,Lead tự tạo,379,2,True,True
+P0327,******5592,ne2026,NE 2026,8,2,True,True
+P0328,******1435,lead_self,Lead tự tạo,382,2,True,True
+P0328,******1435,ne2026,NE 2026,19,2,True,True
+P0329,******2147,lead_self,Lead tự tạo,385,2,True,True
+P0329,******2147,ne2026,NE 2026,37,2,True,True
+P0330,******9909,lead_self,Lead tự tạo,394,2,False,True
+P0330,******9909,lead_self,Lead tự tạo,416,2,False,True
+P0331,******6324,lead_self,Lead tự tạo,419,2,False,True
+P0331,******6324,lead_self,Lead tự tạo,433,2,False,True
+P0332,******8904,lead_self,Lead tự tạo,422,2,True,False
+P0332,******8904,ne2026,NE 2026,138,2,True,False
+P0333,******6732,lead_self,Lead tự tạo,454,3,True,False
+P0333,******6732,lead_self,Lead tự tạo,455,3,True,False
+P0333,******6732,ne2026,NE 2026,241,3,True,False
+P0334,******5030,ne2025,NE 2025,256,2,True,True
+P0334,******5030,ne2026,NE 2026,295,2,True,True
+P0335,******8413,ne2026,NE 2026,12,2,False,False
+P0335,******8413,ne2026,NE 2026,13,2,False,False
+P0336,******7864,ne2026,NE 2026,118,2,False,False
+P0336,******7864,ne2026,NE 2026,152,2,False,False
+P0337,******0715,ne2026,NE 2026,158,2,False,False
+P0337,******0715,ne2026,NE 2026,161,2,False,False
+P0338,******4618,ne2026,NE 2026,233,2,True,False
+P0338,******4618,zalo_oa,Zalo OA,2,2,True,False
+P0339,******3074,ne2026,NE 2026,284,2,True,True
+P0339,******3074,web_gmail,Web gmail Viện,2,2,True,True
+P0340,******2443,ne2026,NE 2026,294,2,True,True
+P0340,******2443,web_gmail,Web gmail Viện,5,2,True,True

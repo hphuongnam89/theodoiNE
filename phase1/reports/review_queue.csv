@@ -1,0 +1,335 @@
+﻿issue,source,sheet,row,detail
+MISSING_SALES_OWNER,ne2026,NE 2026,4,
+MISSING_SALES_OWNER,ne2026,NE 2026,5,
+MISSING_PROGRAM,ne2026,NE 2026,5,
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,5,Giá trị gốc cần xem tại Excel
+MISSING_SALES_OWNER,ne2026,NE 2026,15,
+MISSING_SALES_OWNER,ne2026,NE 2026,18,
+MISSING_SALES_OWNER,ne2026,NE 2026,24,
+MISSING_SALES_OWNER,ne2026,NE 2026,37,
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,37,Giá trị gốc cần xem tại Excel
+MISSING_SALES_OWNER,ne2026,NE 2026,38,
+MISSING_SALES_OWNER,ne2026,NE 2026,39,
+MISSING_SALES_OWNER,ne2026,NE 2026,42,
+MISSING_SALES_OWNER,ne2026,NE 2026,45,
+MISSING_SALES_OWNER,ne2026,NE 2026,46,
+MISSING_SALES_OWNER,ne2026,NE 2026,49,
+MISSING_SALES_OWNER,ne2026,NE 2026,50,
+MISSING_SALES_OWNER,ne2026,NE 2026,53,
+MISSING_SALES_OWNER,ne2026,NE 2026,56,
+MISSING_SALES_OWNER,ne2026,NE 2026,57,
+MISSING_SALES_OWNER,ne2026,NE 2026,59,
+MISSING_SALES_OWNER,ne2026,NE 2026,60,
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,161,Giá trị gốc cần xem tại Excel
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,326,Giá trị gốc cần xem tại Excel
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,327,Giá trị gốc cần xem tại Excel
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,334,Giá trị gốc cần xem tại Excel
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,335,Giá trị gốc cần xem tại Excel
+TUITION_NOT_POSITIVE_NUMBER,ne2026,NE 2026,336,Giá trị gốc cần xem tại Excel
+MISSING_SALES_OWNER,data_ctv,Data CTV,97,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,19,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,25,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,26,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,28,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,29,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,30,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,31,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,34,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,35,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,36,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,37,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,38,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,43,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,44,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,45,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,53,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,54,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,55,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,56,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,57,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,58,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,59,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,60,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,61,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,62,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,63,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,65,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,66,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,67,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,69,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,70,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,71,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,72,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,75,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,76,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,77,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,80,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,84,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,85,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,86,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,87,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,88,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,89,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,90,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,91,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,92,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,93,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,94,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,95,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,96,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,97,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,98,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,99,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,100,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,101,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,102,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,103,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,104,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,105,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,106,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,108,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,109,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,110,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,111,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,112,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,113,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,114,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,116,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,117,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,118,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,119,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,120,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,121,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,122,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,123,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,124,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,125,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,128,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,129,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,130,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,131,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,132,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,133,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,134,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,135,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,136,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,137,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,138,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,139,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,140,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,141,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,142,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,143,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,144,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,145,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,146,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,147,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,148,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,149,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,150,
+MISSING_SALES_OWNER,lead_online,LEAD ONLINE,151,
+MISSING_SALES_OWNER,lead_self,Lead tự tạo,86,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,2,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,3,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,4,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,5,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,6,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,7,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,8,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,9,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,10,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,11,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,12,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,13,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,14,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,15,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,16,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,17,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,18,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,19,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,20,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,21,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,22,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,23,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,24,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,25,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,26,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,27,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,28,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,29,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,30,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,31,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,32,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,33,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,34,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,35,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,36,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,37,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,38,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,39,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,40,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,41,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,42,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,43,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,44,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,45,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,46,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,47,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,48,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,49,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,50,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,51,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,52,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,53,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,54,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,55,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,56,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,57,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,58,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,59,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,60,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,61,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,62,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,63,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,64,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,65,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,66,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,67,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,68,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,69,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,70,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,71,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,72,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,73,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,74,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,75,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,76,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,77,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,78,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,79,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,80,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,81,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,82,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,83,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,84,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,85,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,86,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,87,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,88,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,89,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,90,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,91,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,92,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,93,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,95,
+MISSING_CTV,data_ctv,Data CTV,96,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,97,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,98,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,99,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,100,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,101,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,102,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,103,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,104,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,105,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,106,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,107,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,108,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,109,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,110,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,111,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,112,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,113,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,114,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,115,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,116,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,117,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,118,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,119,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,120,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,121,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,122,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,123,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,124,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,125,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,126,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,127,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,128,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,129,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,130,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,131,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,132,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,134,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,135,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,136,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,137,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,138,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,139,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,140,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,141,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,142,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,143,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,144,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,145,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,146,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,147,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,148,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,149,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,150,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,151,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,152,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,153,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,154,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,155,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,156,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,157,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,158,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,159,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,160,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,161,Cần đối chiếu tên viết tắt/mã CTV
+MISSING_CTV,data_ctv,Data CTV,162,
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,163,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,164,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,165,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,166,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,167,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,168,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,169,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,170,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,171,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,172,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,173,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,174,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,175,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,176,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,177,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,181,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,183,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,184,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,186,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,187,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,188,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,189,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,190,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,191,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,193,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,194,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,195,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,196,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,197,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,198,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,199,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,200,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,201,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,202,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,203,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,204,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,205,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,206,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,207,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,208,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,209,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,210,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,215,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,218,Cần đối chiếu tên viết tắt/mã CTV
+CTV_NAME_NOT_IN_ROSTER,data_ctv,Data CTV,219,Cần đối chiếu tên viết tắt/mã CTV

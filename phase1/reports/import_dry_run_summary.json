@@ -1,0 +1,23 @@
+{
+  "source_rows_previewed": 1960,
+  "strict_person_candidate_groups": 1673,
+  "groups_with_multiple_source_rows": 258,
+  "lead_ne_link_candidate_groups": 206,
+  "lead_ne_link_candidate_rows": 440,
+  "decisions": {
+    "REVIEW_STRUCTURE": 228,
+    "MAPPING_OR_PAYMENT_APPROVAL_PENDING": 1732
+  },
+  "flag_counts": {
+    "MISSING_OWNER": 121,
+    "PAYMENT_VERIFICATION_PENDING": 651,
+    "MISSING_PROGRAM": 3,
+    "OWNER_APPROVAL_PENDING": 1535,
+    "NO_VALID_CONTACT": 95,
+    "HISTORICAL_OWNER_MAPPING_PENDING": 304,
+    "CTV_APPROVAL_PENDING": 208,
+    "MISSING_CTV": 10,
+    "CONTACT_VIA_FB_ONLY": 112
+  },
+  "note": "Đây là preview trong bộ nhớ, không tạo database, không công nhận NE và không ghép application tự động."
+}

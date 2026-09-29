@@ -1,0 +1,138 @@
+{
+  "generated_at_utc": "2026-09-29T12:30:04.562789+00:00",
+  "source_files": {
+    "1. THEO DÕI NE.xlsx": {
+      "size_bytes": 767485,
+      "sha256": "ee5bb829e365bd30df7b8dad2c9b2b173e4a4283a78791b534a2becd5743060a"
+    },
+    "4. Report Daily.xlsx": {
+      "size_bytes": 1602700,
+      "sha256": "7c4b55c36bbd8770bde4db04e4fcb25da81288f764cd062a23e4b4f02e7ab28c"
+    }
+  },
+  "sources": {
+    "ne2026": {
+      "sheet": "NE 2026",
+      "rows_with_name": 347,
+      "rows_with_valid_phone": 346,
+      "rows_with_owner": 329,
+      "status_counts": null
+    },
+    "ne2025": {
+      "sheet": "NE 2025",
+      "rows_with_name": 268,
+      "rows_with_valid_phone": 267,
+      "rows_with_owner": null,
+      "status_counts": null
+    },
+    "ne2024": {
+      "sheet": "NE 2024 ",
+      "rows_with_name": 36,
+      "rows_with_valid_phone": 0,
+      "rows_with_owner": null,
+      "status_counts": null
+    },
+    "data_ctv": {
+      "sheet": "Data CTV",
+      "rows_with_name": 218,
+      "rows_with_valid_phone": 206,
+      "rows_with_owner": 217,
+      "status_counts": {
+        "NE": 157,
+        "Will": 37,
+        "Convert": 12,
+        "Cold": 5,
+        "NB": 4,
+        "<trống>": 2,
+        "Lost": 1
+      }
+    },
+    "lead_online": {
+      "sheet": "LEAD ONLINE",
+      "rows_with_name": 616,
+      "rows_with_valid_phone": 488,
+      "rows_with_owner": 515,
+      "status_counts": {
+        "Will": 308,
+        "Cold": 126,
+        "Lost": 75,
+        "NE": 71,
+        "<trống>": 20,
+        "Convert": 9,
+        "Hồ sơ": 5,
+        "NB": 2
+      }
+    },
+    "lead_self": {
+      "sheet": "Lead tự tạo",
+      "rows_with_name": 468,
+      "rows_with_valid_phone": 439,
+      "rows_with_owner": 467,
+      "status_counts": {
+        "Will": 226,
+        "NE": 101,
+        "Lost": 75,
+        "Convert": 35,
+        "Cold": 29,
+        "<trống>": 1,
+        "NB": 1
+      }
+    },
+    "zalo_oa": {
+      "sheet": "Zalo OA",
+      "rows_with_name": 2,
+      "rows_with_valid_phone": 2,
+      "rows_with_owner": 2,
+      "status_counts": {
+        "NE": 1,
+        "Will": 1
+      }
+    },
+    "web_gmail": {
+      "sheet": "Web gmail Viện",
+      "rows_with_name": 5,
+      "rows_with_valid_phone": 5,
+      "rows_with_owner": 5,
+      "status_counts": {
+        "Lost": 3,
+        "NE": 1,
+        "Will": 1
+      }
+    },
+    "ctv_roster": {
+      "sheet": "DANH SÁCH CTV ",
+      "rows_with_name": 31,
+      "rows_with_valid_phone": 21,
+      "rows_with_owner": null,
+      "status_counts": null
+    }
+  },
+  "ne2026": {
+    "rows_with_name": 347,
+    "rows_with_program": 346,
+    "rows_with_sales_owner_in_AB": 329,
+    "tuition_cells_nonempty": 345,
+    "tuition_cells_positive_numeric_unverified": 339,
+    "summary_2026_cached_count": 346
+  },
+  "kpi_2026": {
+    "months": "1-9",
+    "target_total": 426.0,
+    "reported_total_M": 220.0,
+    "sum_staff_H_to_L": 287.0,
+    "note": "Các công thức cột M tham chiếu phần báo cáo ngày phía dưới; một số dòng nhân sự bị bỏ qua."
+  },
+  "ctv": {
+    "data_ctv_rows": 218,
+    "data_ctv_rows_with_ctv": 208,
+    "distinct_ctv_names_normalized": 42,
+    "roster_names": 31,
+    "rows_exact_name_match_after_normalization": 14
+  },
+  "phone_duplicate_candidates": {
+    "groups": 340,
+    "groups_cross_source": 326,
+    "rows_in_groups": 731,
+    "note": "Số điện thoại trùng là ứng viên cần kiểm tra, không tự động ghép bản ghi."
+  }
+}
